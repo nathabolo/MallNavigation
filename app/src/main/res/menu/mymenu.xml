@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:a="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/mybutton"
+        android:title=""
+        android:showAsAction="always"
+        android:icon="@drawable/building2"
+        />
+
+    <item
+        android:id="@+id/mybutton2"
+        android:title=""
+        android:showAsAction="always"
+        android:icon="@drawable/route"
+        />
+
+    <item
+        android:id="@+id/mybutton3"
+        android:title=""
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_search"
+        />
+
+
+    <item
+        android:id="@+id/nav_setting"
+        android:icon="@drawable/menu"
+        android:title="Settings"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/nav_position"
+        android:icon="@drawable/menu"
+        android:title="Display position in Google Maps"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/nav_cancel"
+        android:icon="@drawable/menu"
+        android:title="Cancel route"
+        app:showAsAction="ifRoom" />
+
+
+</menu>

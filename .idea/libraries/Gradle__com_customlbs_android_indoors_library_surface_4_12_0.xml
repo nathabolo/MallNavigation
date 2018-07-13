@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.customlbs.android:indoors-library-surface-4.12.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/indoors-library-surface-4.12.0-release.aar/4a37e73f2beffe3a832c5fcb13b6dbcb/jars/libs/IndoorsSurfaceAndroid.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/indoors-library-surface-4.12.0-release.aar/4a37e73f2beffe3a832c5fcb13b6dbcb/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/indoors-library-surface-4.12.0-release.aar/4a37e73f2beffe3a832c5fcb13b6dbcb/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/indoors-library-surface-4.12.0-release.aar/4a37e73f2beffe3a832c5fcb13b6dbcb/jars/libs/IndoorsLibraryAndroid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

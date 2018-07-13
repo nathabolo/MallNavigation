@@ -1,0 +1,5 @@
+# Do not proguard any classes from dependencies
+-keep class !local.myfirstindoorsapp.** { *; }
+
+-dontwarn com.google.**
+-dontwarn org.slf4j.**
